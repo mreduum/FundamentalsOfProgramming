@@ -1,2 +1,2 @@
-# FundamentalsOfProgramming
-Developing Programming Logic.
+# Fundamentals Of Programming
+Developing programming logic.
